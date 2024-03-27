@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1166551769817788417/1612239644/1080x360)
+
 <h1 align="center">Hi 👋, I'm Suzauddin sk</h1>
 <h3 align="center">Interested in full stack web development and also aspire to be a software engineer</h3>
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
@@ -6,6 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzauddin11&label=Profile%20views&color=0e75b6&style=flat" alt="suzauddin11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/suzauddin_sk" target="blank"><img src="https://img.shields.io/twitter/follow/suzauddin_sk?logo=twitter&style=for-the-badge" alt="suzauddin_sk" /></a> </p>
+
+- 🔭 I’m currently Studying **B.TECH(CSE) at Computer Sciecnce & Engineering**
+
+- 🌱 I’m currently learning **JAVA, HTML,CSS,JAVA SCRIPT**
 
 - 📫 How to reach me **suzauddinsk72@gmail.com**
 
