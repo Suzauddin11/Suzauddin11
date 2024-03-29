@@ -23,8 +23,9 @@
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/suzauddin_sk) --> 
 [<img src="https://img.shields.io/badge/-Suzauddin sk-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/suzauddinsk/)
-[<img src="https://img.shields.io/badge/-suzauddinsk72@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](mailto:suzauddinsk72@gmail.com) 
+[<img src="https://img.shields.io/badge/-suzauddinsk72@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />](suzauddinsk72@gmail.com) 
 [<img src="https://img.shields.io/badge/-@Suzauddin sk-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://instagram.com/itz_suzauddin)
+[<img src="https://img.shields.io/badge/-Suzauddin sk-blue?style=for-the-badge&logo=Facebook&logoColor=white" height="30" title="Follow me" />](https://facebook.com/in/suzauddin0/)
 [<img src="https://img.shields.io/github/followers/suzauddin11?label=suzauddin11&style=social" height="32" title="Follow me" />](https://github.com/suzauddin11) 
 </br></br>
 <h2>💻 Some stats 💻</h2>
