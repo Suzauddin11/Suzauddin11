@@ -7,7 +7,7 @@
   </a>
 </p>
 <a style="" href="https://github.com/suzauddin11">
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="30%" height="70%" style="margin:0 30px;">
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="40%" height="70%" style="margin:0 30px;">
 </a>
 
 ### 👀 I’m Interested in full stack web development and also aspire to be a software engineer.
