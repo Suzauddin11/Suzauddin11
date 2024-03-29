@@ -40,7 +40,7 @@
 
 ## Languages and Tools:
 <span> 
-  <a href="https://github.com/anuradha019">
+  <a href="https://github.com/suzauddin11">
 <!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    -->
 <!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    -->
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/>    
