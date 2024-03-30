@@ -28,17 +28,12 @@
 [<img src="https://img.shields.io/badge/-Suzauddin sk-blue?style=for-the-badge&logo=Facebook&logoColor=white" height="30" title="Follow me" />](https://www.facebook.com/in/suzauddin0/)
 [<img src="https://img.shields.io/github/followers/suzauddin11?label=suzauddin11&style=social" height="32" title="Follow me" />](https://github.com/suzauddin11) 
 </br></br>
-<h2>💻 Some stats 💻</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzauddin11&show_icons=true&locale=en&layout=compact" alt="suzauddin11" /></p>
 
-<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/suzauddin11">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=suzauddin11&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
-</a>
-<a style="" href="https://github.com/suzauddin11">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzauddin11&theme=tokyonight&layout=donut-vertical"/>
-</a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suzauddin11&show_icons=true&locale=en" alt="suzauddin11" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzauddin11&" alt="suzauddin11" /></p>
+
 
 ## Languages and Tools:
 <span> 
