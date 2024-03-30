@@ -38,6 +38,7 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzauddin11&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzauddin11&" alt="suzauddin11" /></p>
 
 ## Languages and Tools:
 <span> 
@@ -53,8 +54,6 @@
     
 </span>
 <br>
-
-
 
 
 ---
