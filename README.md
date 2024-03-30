@@ -12,7 +12,7 @@
 
 ### 👀 I’m Interested in full stack web development and also aspire to be a software engineer.
 
-### 🔭 I’m currently Studying **B.TECH(CSE) at Computer Sciecnce & Engineering.
+### 🔭 I’m currently Studying B.TECH(CSE) at Computer Sciecnce & Engineering.
 
 ### 🌱 I’m currently learning JAVA, HTML,CSS,JAVA SCRIPT.
 
