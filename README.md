@@ -14,7 +14,7 @@
 
 ### 🔭 I’m currently Studying B.TECH(CSE) at Computer Sciecnce & Engineering.
 
-### 🌱 I’m currently learning JAVA, HTML,CSS,JAVA SCRIPT.
+### 🌱 I’m currently learning Python, HTML,CSS,JAVA SCRIPT.
 
 ---
 
