@@ -44,7 +44,7 @@
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/>        
 <!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the badge&logo=jupyter&logoColor=white"/>    -->
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Java%20-%2320232a.svg?&style=for-the-badge&logo=Java&logoColor=%2361DAFB"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Python%20-%2320232a.svg?&style=for-the-badge&logo=Java&logoColor=%2361DAFB"/>
   
     
 </span>
